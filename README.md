@@ -86,6 +86,9 @@ TODO
 
 TODO
 
+* (paid, course) [Mobile App Accessibility Fundamentals](https://dequeuniversity.com/curriculum/courses/mobile-app-fundamentals)
+* (paid, book) [Developing Inclusive Mobile Apps](https://www.apress.com/us/book/9781484258132)
+
 ### Design accessibility
 
 TODO
