@@ -58,7 +58,7 @@ TODO: more guides and resources
 Practice performing a few WCAG assessments on some websites and/or native mobile applications. 
 
 * (free) [Website Accessibility Conformance Evaluation Methodology](https://www.w3.org/WAI/test-evaluate/conformance/wcag-em/) - a free resource to help guide you through performing a solid WCAG assessment.
-* (paid) [Deque University - WCAG Conformance Testing, Detailed Methodology] - has detailed WCAG testing instructions for multiple platforms, including web, native mobile, PDF, etc.
+* (paid) [Deque University - WCAG Conformance Testing, Detailed Methodology](https://dequeuniversity.com/curriculum/courses/wcagtesting) - has detailed WCAG testing instructions for multiple platforms, including web, native mobile, PDF, etc.
 
 
 
