@@ -1,5 +1,7 @@
 # Zero to accessibility expert
 
+Status: draft
+
 This is a non-exhaustive and opinionated guide to becoming an accessibility expert. What you should learn depends on the specialization that you want to target.
 
 In general, this will look something like this: 
@@ -61,4 +63,18 @@ Practice performing a few WCAG assessments on some websites and/or native mobile
 * (paid) [Deque University - WCAG Conformance Testing, Detailed Methodology](https://dequeuniversity.com/curriculum/courses/wcagtesting) - has detailed WCAG testing instructions for multiple platforms, including web, native mobile, PDF, etc.
 
 
+## Specific topics for your specialization(s)
 
+Digital accessibility can be broken into many sub-specializations.
+
+### Web accessibility
+
+TODO
+
+### Native mobile accessibility
+
+TODO
+
+### Design accessibility
+
+TODO
