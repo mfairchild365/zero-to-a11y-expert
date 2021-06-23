@@ -1,16 +1,17 @@
 # Zero to accessibility expert
 
-Status: draft
+Status: draft, seeking feedback
 
 This is a non-exhaustive and opinionated guide to becoming an accessibility expert. What you should learn depends on the specialization that you want to target.
 
 In general, this will look something like this: 
 
-1. Find a personal a11y coach
-2. Learn the fundamentals (types of disabilities, standards, laws, etc)
-3. Learn how to use assistive technologies
-4. Learn how to do an assessment
-5. Specific topics for your specialization(s)
+1. [Find a personal a11y coach](#find-a-personal-a11y-coach)
+2. [Learn the fundamentals (types of disabilities, standards, laws, etc)](#learn-the-fundamentals)
+3. [Learn how to use assistive technologies](#learn-how-to-use-assistive-technologies)
+4. [Learn how to do an assessment](#learn-how-to-do-an-assessment)
+5. [Specific topics for your specialization](#specific-topics-for-your-specialization)
+6. [Certifcation](#certifcation)
 
 ## Find a personal a11y coach
 
@@ -58,6 +59,8 @@ Deque University has great [screen reader guides](https://dequeuniversity.com/sc
 
 TODO: more guides and resources
 
+* (paid, course) [Deque University - Web Accessibility Testing: Screen Readers](https://dequeuniversity.com/curriculum/courses/screenreaders)
+
 Practice this skill: Try to use a screen reader to complete some tasks on sites that you frequently visit.
 
 ## Learn how to do an assessment
@@ -69,7 +72,7 @@ Practice performing a few WCAG assessments on some websites and/or native mobile
 
 Practice this skill: Perform an audit on at least two different sites or applications.
 
-## Specific topics for your specialization(s)
+## Specific topics for your specialization
 
 Digital accessibility can be broken into many sub-specializations. The general goals of each specialization are:
 
@@ -78,17 +81,45 @@ Digital accessibility can be broken into many sub-specializations. The general g
 4. To understand how to go above and beyond the minimal requirements of WCAG for the specific technology
 5. To understand techniques and behaviors that development crews can follow to become proactive rather than reactive when it comes to accessibility
 
-### Web accessibility
-
-TODO
-
-### Native mobile accessibility
-
-TODO
-
-* (paid, course) [Mobile App Accessibility Fundamentals](https://dequeuniversity.com/curriculum/courses/mobile-app-fundamentals)
-* (paid, book) [Developing Inclusive Mobile Apps](https://www.apress.com/us/book/9781484258132)
 
 ### Design accessibility
 
-TODO
+TODO, seeking resources and feedback
+
+* (paid, course) [Deque University - Accessibility for Designers Curriculum Package](https://dequeuniversity.com/curriculum/packages/designers)
+
+### Document accessibility
+
+TODO, seeking resources and feedback
+
+* (paid, course) [Deque University - Document Accessibility Curriculum Package](https://dequeuniversity.com/curriculum/packages/documents)
+
+### Native mobile accessibility
+
+TODO, seeking resources and feedback
+
+* (paid, book) [Android Accessibility by Tutorials](https://www.raywenderlich.com/books/android-accessibility-by-tutorials/v1.0)
+* (free, site) [Android developer documentation - Accessibility gude](https://developer.android.com/guide/topics/ui/accessibility) - links to many technical resources on how to implement accessibility in Android.
+* (free, site) [Apple developer documentation - Accessibility on iOS](https://developer.apple.com/accessibility/ios/) - links to many technical resources on how to implement accessibility in iOS.
+* (paid, book) [Developing Accessible iOS Apps: Support VoiceOver, Dynamic Type, and More](https://www.amazon.com/gp/product/B082MCNRSK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B082MCNRSK&linkCode=as2&tag=dadederk-20&linkId=8df469a36a96a9737b6832e1eaa72926)
+* (paid, book) [Developing Inclusive Mobile Apps](https://www.apress.com/us/book/9781484258132)
+* (paid, course) [Mobile App Accessibility Fundamentals](https://dequeuniversity.com/curriculum/courses/mobile-app-fundamentals)
+
+### Web accessibility
+
+TODO, seeking resources and feedback
+
+* (paid, course) [Deque University - Web Accessibility Curriculum Package](https://dequeuniversity.com/curriculum/packages/web)
+* (free, standard) [HTML](https://html.spec.whatwg.org/) - HTML is often overlooked, but it is critical for a developer to understand what is and what is not possible in HTML. The semantics (name, role, value, states, and properties) provided by HTML elements and attributes are what makes screen readers possible. For example, `<button disabled>submit</button>` is announced something like "Button, submit, disabled". Additionally, there are rules about how elements can be nested and what attributes are allowed under different circumstances. Assistive technologies like screen readers have much better support for HTML than ARIA, so reach for HTML first.
+* (free, standard) [Using ARIA](https://www.w3.org/TR/using-aria/) - The attributes provided by the Accessible Rich Internet Applications (ARIA) standards are often overused, misunderstood, and implemented in such a way that actually worsens the user experience for people with disabilities. This 'standard' (it's more of a note) explains when to use and not use ARIA. This is a must read.
+* (free, standard) [ARIA Authoring Practices](https://www.w3.org/TR/wai-aria-practices/) - ARIA is designed to be malleable and flexible so that developers can make wacky and innovative designs accessible when there isn't a native way build the design (or example, if an HTML element doesn't exist). This document details some common patterns that ARIA can help with and attempts to standardize them. It provides details on expected keyboard interactions and working examples. Check here first if you have to reach for ARIA.
+* (free, standard) [ARIA in HTML](https://www.w3.org/TR/html-aria/) - You can't just mix ARIA with HTML willy nilly. To guarantee the best possible support with assistive technologies like screen readers, you should also adhere to the restrictions defined in this document. This document describes which ARIA roles and attributes are allowed on different HTML elements. Tools like axe test against these requirements.
+* (free, standard) [ARIA](https://www.w3.org/TR/wai-aria/) - If all else fails and you need to roll your own, or if you need to fix something and can't correct the HTML due to silly business constraints, reach for ARIA. However, just like HTML, there are rules around when and where you can use various roles and attributes. Read this before writing any ARIA.
+* (free, standard) [Accessible Name and Description Computation](https://www.w3.org/TR/accname/) - this standard describes how accessible names and descriptions are computed in various scenarios. This isn't something you will likely need to memorize as a developer, but is a fun deep dive and may help you understand why a screen reader is conveying a specific name or description in certain cirumstances.
+* (free, standard) [HTML AAM](https://www.w3.org/TR/html-aam/) - The HTML Accessibility API Mappings describe how browsers should translate various HTML elements and attributes to system accessibility APIs for consumption by assistive technologies like screen readers. This isn't something most developers need to know about, but can be a fun read if you want a deep dive into how your code is translated into a screen reader experience. Note that there are other AAM documents, such as the [Core AAM](https://www.w3.org/TR/core-aam/), which focuses on ARIA mappings.
+
+## Certifcation
+
+Consider seeking certification in your area of accessibility. The main accessibility certification body is the [International Association of Accessibility Professionals](https://www.accessibilityassociation.org/certification).
+
+TODO: pros/cons, study advice
