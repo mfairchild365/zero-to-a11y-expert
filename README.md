@@ -101,6 +101,7 @@ TODO, seeking resources and feedback
 * (paid, book) [Android Accessibility by Tutorials](https://www.raywenderlich.com/books/android-accessibility-by-tutorials/v1.0)
 * (free, site) [Android developer documentation - Accessibility gude](https://developer.android.com/guide/topics/ui/accessibility) - links to many technical resources on how to implement accessibility in Android.
 * (free, site) [Apple developer documentation - Accessibility on iOS](https://developer.apple.com/accessibility/ios/) - links to many technical resources on how to implement accessibility in iOS.
+* (free, videos) [Apple developer documentation - Videos](https://developer.apple.com/videos/frameworks/accessibility/)
 * (paid, book) [Developing Accessible iOS Apps: Support VoiceOver, Dynamic Type, and More](https://www.amazon.com/gp/product/B082MCNRSK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B082MCNRSK&linkCode=as2&tag=dadederk-20&linkId=8df469a36a96a9737b6832e1eaa72926)
 * (paid, book) [Developing Inclusive Mobile Apps](https://www.apress.com/us/book/9781484258132)
 * (paid, course) [Mobile App Accessibility Fundamentals](https://dequeuniversity.com/curriculum/courses/mobile-app-fundamentals)
