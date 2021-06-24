@@ -53,6 +53,14 @@ Pay close attention to:
 
 Practice this skill: Practice applying the conformance requirements and SC to your favorite websites.
 
+### Learn to go beyond WCAG
+
+WCAG compliance is the worst you can legally do, and does not guarentee a good user expierence for someone with a disability. The following are some resources to help you discover how to go beyond WCAG compliance.
+
+TODO: more resources and feedback
+
+* (free, site) [Inclusive Design Principles](https://inclusivedesignprinciples.org/)
+
 ## Learn how to use assistive technologies
 
 Deque University has great [screen reader guides](https://dequeuniversity.com/screenreaders/) that are free to use. Pick one screen reader and practice using it. Also famailiarze yourself with other assistive technologies such as [Voice Control for iOS](https://support.apple.com/en-us/HT210417#:~:text=To%20turn%20Voice%20Control%20on,%2C%20turn%20on%20Voice%20Control.%22), [Voice Control for MacOS](https://support.apple.com/en-us/HT210539), and [Switch Control for iOS](https://support.apple.com/en-us/HT201370) and [Switch Access for Android](https://support.google.com/accessibility/android/answer/6122836?hl=en).
