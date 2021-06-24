@@ -11,14 +11,14 @@ In general, this will look something like this:
 3. [Learn how to use assistive technologies](#learn-how-to-use-assistive-technologies)
 4. [Learn how to do an assessment](#learn-how-to-do-an-assessment)
 5. [Specific topics for your specialization](#specific-topics-for-your-specialization)
-6. [Certifcation](#certifcation)
+6. [Certification](#certification)
 
 ## Find a personal a11y coach
 
 A personal accessibility coach is someone who will work directly with you on a one-on-one basis to help you achieve your goal of becoming an expert. While a coach is not a hard requirement, a coach can be very helpful by:
 
 * Answering your questions
-* Tailoring your learning jounry to meet your specific needs
+* Tailoring your learning journey to meet your specific needs
 * Helping you keep on track and be accountable
 * Challenging you to better your skills
 
@@ -119,7 +119,7 @@ TODO, seeking resources and feedback
 * (free, standard) [Accessible Name and Description Computation](https://www.w3.org/TR/accname/) - this standard describes how accessible names and descriptions are computed in various scenarios. This isn't something you will likely need to memorize as a developer, but is a fun deep dive and may help you understand why a screen reader is conveying a specific name or description in certain cirumstances.
 * (free, standard) [HTML AAM](https://www.w3.org/TR/html-aam/) - The HTML Accessibility API Mappings describe how browsers should translate various HTML elements and attributes to system accessibility APIs for consumption by assistive technologies like screen readers. This isn't something most developers need to know about, but can be a fun read if you want a deep dive into how your code is translated into a screen reader experience. Note that there are other AAM documents, such as the [Core AAM](https://www.w3.org/TR/core-aam/), which focuses on ARIA mappings.
 
-## Certifcation
+## Certification
 
 Consider seeking certification in your area of accessibility. The main accessibility certification body is the [International Association of Accessibility Professionals](https://www.accessibilityassociation.org/certification).
 
