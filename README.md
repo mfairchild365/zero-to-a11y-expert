@@ -6,23 +6,12 @@ This is a non-exhaustive and opinionated guide to becoming an accessibility expe
 
 In general, this will look something like this: 
 
-1. [Find a personal a11y coach](#find-a-personal-a11y-coach)
-2. [Learn the fundamentals (types of disabilities, standards, laws, etc)](#learn-the-fundamentals)
-3. [Learn how to use assistive technologies](#learn-how-to-use-assistive-technologies)
-4. [Learn how to do an assessment](#learn-how-to-do-an-assessment)
+1. [Learn the fundamentals (types of disabilities, standards, laws, etc)](#learn-the-fundamentals)
+2. [Learn how to use assistive technologies](#learn-how-to-use-assistive-technologies)
+3. [Learn how to do an assessment](#learn-how-to-do-an-assessment)
+4. [Find a personal a11y coach](#find-a-personal-a11y-coach)
 5. [Specific topics for your specialization](#specific-topics-for-your-specialization)
 6. [Certification](#certification)
-
-## Find a personal a11y coach
-
-A personal accessibility coach is someone who will work directly with you on a one-on-one basis to help you achieve your goal of becoming an expert. While a coach is not a hard requirement, a coach can be very helpful by:
-
-* Answering your questions
-* Tailoring your learning journey to meet your specific needs
-* Helping you keep on track and be accountable
-* Challenging you to better your skills
-
-TODO: list ways to find personal a11y coaches
 
 ## Learn the fundamentals
 
@@ -79,6 +68,17 @@ Practice performing a few WCAG assessments on some websites and/or native mobile
 * (paid) [Deque University - WCAG Conformance Testing, Detailed Methodology](https://dequeuniversity.com/curriculum/courses/wcagtesting) - has detailed WCAG testing instructions for multiple platforms, including web, native mobile, PDF, etc.
 
 Practice this skill: Perform an audit on at least two different sites or applications.
+
+## Find a personal a11y coach
+
+A personal accessibility coach is someone who will work directly with you on a one-on-one basis to help you achieve your goal of becoming an expert. While a coach is not a hard requirement, a coach can be very helpful by:
+
+* Answering your questions
+* Tailoring your learning journey to meet your specific needs
+* Helping you keep on track and be accountable
+* Challenging you to better your skills
+
+TODO: list ways to find personal a11y coaches
 
 ## Specific topics for your specialization
 
