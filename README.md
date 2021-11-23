@@ -22,7 +22,7 @@ The fundamentals include topics such as types of disabilities, standards, laws, 
 * (free, course) [Microsoft - Accessibility fundamentals](https://docs.microsoft.com/en-us/learn/paths/accessibility-fundamentals/)
 * (free, site) [WCAG](https://www.w3.org/WAI/WCAG21/quickref/)
 
-Practice this skill: create a set of personas that include a mix of different disabilities. Think about the experience each persona might have when trying to complete a task on some of the sites that you visit most frequently.
+Practice this skill: create a set of personas that include a mix of different disabilities. Think about the experience each persona might have when trying to complete a task on some of the sites that you visit most frequently. For examples of personas, see [the gov.uk personas](https://alphagov.github.io/accessibility-personas/), or [Cards for Humanity](https://cardsforhumanity.idean.com/).
 
 ### Learn WCAG
 
